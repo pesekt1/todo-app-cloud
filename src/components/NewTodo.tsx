@@ -25,7 +25,7 @@ const NewTodo = ({ onAddTodo }: Props) => {
         className="form-control"
       />
       <button type="submit" className="btn btn-primary mt-2">
-        Add todo
+        Add todo NEW
       </button>
     </form>
   );
